@@ -1,10 +1,6 @@
 # My-Promise
 
-## About
-
-An implementation of https://promisesaplus.com in case all JavaScript engines suddenly decide to drop support for `Promise`. (I hope not)
-
-Example usage
+## Example usage
 ```javascript
 import { MyPromise } from "../lib/promise"
 
